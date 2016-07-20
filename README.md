@@ -13,5 +13,9 @@ www.smartlab.ws
 * 'FerrellCombinedData.csv': Combined mean and std from Jorge dataset cleaned up to be tidy
 * 'FerrellNewData.csv': Averaged out values by subject and activity
 * 'CodeBook.md': Breakdown of variables in 'FerrellCombinedData.csv' by column
-* 'run_analysis': R script used to generate 'FerrellCombinedData.csv' and 'FerrellNewData.csv'
+* 'run_analysis': R script used to generate 'FerrellCombinedData.txt' and 'FerrellNewData.txt'
+** Reads in labels for activities and subject assignment
+** Extracts only mean and std from original datasets
+** Combines two datasets together and cleans up column names
+** Generates a new tidy dataset by summarizing on subject and activity
 
