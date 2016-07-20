@@ -1,4 +1,5 @@
-# ReadMe for tidy-modified Human Activity Recognition Using Smart Phones Dataset
+# GetttingAndCleaningDataCourseProject
+# tidy-modified Human Activity Recognition Using Smart Phones Dataset
 ## Original Data
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
